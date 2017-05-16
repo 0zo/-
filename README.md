@@ -1,4 +1,5 @@
-# -
+#QQ机器人插件与EXE通信
+#
 QQ机器人插件与EXE进程通信
 AM为AmandaQQ
 CQ为酷Q
